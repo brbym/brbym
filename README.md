@@ -1,3 +1,5 @@
+www.linkedin.com/in/burabiyem-buğda-a034632b9
+
 ## Hi there 👋
 
 <!--
@@ -14,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p> I'm second-year Computer Programming student at Biruni University </p>
+<p> Currently, I'm enhancing my skills in Python</p>
